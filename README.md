@@ -2,7 +2,15 @@
 **Full-stack developer passionate about backend systems, scalability, and applying DSA to real-world products.**
 
 # 💫 About Me:
-🛠️ I’m currently working on Presento Treasure, a real startup product, building full-stack features using React, Node.js, Prisma, and MySQL.<br><br>🤝 I’m looking to collaborate on full-stack web applications and startup-oriented projects.<br><br>🌱 I’m currently learning backend scalability, system design, and applying DSA to real products.<br><br>💬 Ask me about React, JavaScript, Node.js, JWT authentication, Prisma, MySQL, and DSA.<br><br>📫 Connect with me at adnan.rizvi2004@gmail.com
+🛠️ I’m currently working on Presento Treasure, a real startup product, building modular APIs, secure role-based systems, optimized data models, and core commerce features, with payment integration in progress.
+
+🤝 I’m looking to collaborate on full-stack web applications and startup-oriented, product-driven projects.
+
+🌱 I’m currently learning backend scalability, system design fundamentals, and applying Data Structures & Algorithms to real-world systems.
+
+💬 Ask me about React, JavaScript, HTML, CSS, Vite, Node.js, Express.js, Prisma ORM, MySQL (Aiven), MongoDB, Firebase, JWT, Nodemailer, Cloudinary, Vercel, Git & GitHub, Python, Pandas, and DSA.
+
+📫 Connect with me at adnan.rizvi2004@gmail.com
 
 
 ## 🌐 Socials:
