@@ -8,7 +8,7 @@
 
 🌱 I’m currently learning backend scalability, system design fundamentals, and applying Data Structures & Algorithms to real-world systems.
 
-💬 Ask me about React, JavaScript, Node.js, Express, Prisma, MySQL, JWT authentication, and DSA.
+💬 Ask me about React, JavaScript, HTML, CSS, Vite, Node.js, Express.js, Prisma ORM, MySQL (Aiven), MongoDB, Firebase, JWT, Nodemailer, Cloudinary, Vercel, Git & GitHub, Python, Pandas, and DSA.
 
 📫 Connect with me at adnan.rizvi2004@gmail.com
 
