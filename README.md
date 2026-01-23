@@ -32,6 +32,13 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=adnan275&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=adnan275&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+# 📊 GitHub Stats:
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=adnan275&theme=react-dark)
+
+![](https://github-readme-stats.vercel.app/api?username=adnan275&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
+
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
