@@ -39,7 +39,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=adnan275&label=Profile%20Views&color=0e75b6&style=flat)
 
 
-![](https://github-readme-stats.vercel.app/api?username=adnan275&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
 
 
 ### ✍️ Random Dev Quote
