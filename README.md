@@ -1,23 +1,5 @@
-Hi 👋, I'm Adnan Rizvi
+<img width="1440" height="1590" alt="image" src="https://github.com/user-attachments/assets/706b854e-cffa-400e-936a-7f06c5a2556f" />
 
-Full-stack developer focused on backend systems, scalability, system design, and applying DSA to real-world products.
-
-💫 About Me:
-
-🛠️ Working on Presento Treasure, a startup product — building modular APIs, secure role-based systems, and optimized data models, with payment integration in progress.
-
-🚀 Built and deployed scalable apps using MERN stack, Prisma, MySQL, JWT, Nodemailer, and Vercel.
-
-⚙️ Built a high-performance network inspection engine with multithreading.
-
-🧠 Strong in DSA, Python, and System Design, with hands-on experience in Git & GitHub.
-
-🤝 Open to collaborating on full-stack and product-driven projects.
-
-💬 Ask me about
-JavaScript, Python, React, Node.js, Express, Prisma, MongoDB, MySQL, APIs, TCP/IP, Multithreading, Git & GitHub, System Design, and DSA.
-
-📫 adnan.rizvi2004@gmail.com
 
 
 ## 🌐 Socials:
