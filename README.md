@@ -61,6 +61,7 @@ I am open to:
 ## 📫 Connect With Me
 
 * <a href="mailto:adnan.rizvi2004@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adnan-rizvi-o1)
 
 
 ---
@@ -70,8 +71,7 @@ I am open to:
 </p>
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adnan-rizvi-o1) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adnan.rizvi2004@gmail.com) 
+
 
 <!-- Snake Game Repo View -->
 
