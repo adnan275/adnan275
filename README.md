@@ -1,5 +1,73 @@
-<img width="1440" height="1590" alt="image" src="https://github.com/user-attachments/assets/706b854e-cffa-400e-936a-7f06c5a2556f" />
+# Hii, I'm Adnan Rizvi 👋
 
+Full-Stack Developer | Backend, Scalability & System Design Specialist
+
+---
+
+## 💫 Profile
+
+* Specialized in building robust, scalable backend architectures.
+* Focused on translating System Design & DSA concepts into real-world products.
+* Strong foundation in problem-solving and architectural efficiency.
+
+---
+
+## 🛠️ Currently Building
+
+### **Presento Treasure (Startup Product)**
+**Role: Lead Backend Developer**
+
+Key Responsibilities:
+* Developing modular, flexible APIs for evolving features.
+* Implementing secure Role-Based Access Control (RBAC).
+* Optimizing database schemas for performance.
+* *In Progress:* Secure Payment Gateway Integration.
+
+---
+
+## 🚀 Key Projects
+
+* **Network Engine:** Engineered a high-performance multithreaded network inspection engine for parallel packet processing.
+* **Scalable Apps:** Built & deployed multiple full-stack applications using MERN, Prisma, MySQL, and modern CI/CD.
+
+---
+
+## ⚙️ Skills & Technologies
+
+### **Frontend**
+* React, JavaScript, HTML5, CSS3, Vite
+
+### **Backend & Databases**
+* Node.js, Express.js, Prisma ORM, MySQL (Aiven), MongoDB, Firebase
+
+### **Auth & Messaging**
+* JWT, Nodemailer, Cloudinary
+
+### **Tools & DevOps**
+* Vercel, Git & GitHub
+
+### **Languages & Concepts**
+* Python, Pandas, DSA, System Design
+
+---
+
+## 🤝 Let's Collaborate
+
+I am open to:
+* Full-Stack development projects.
+* Backend-heavy and product-driven roles.
+* Scalability challenges.
+
+## 📫 Connect With Me
+
+* <a href="mailto:adnan.rizvi2004@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=default" alt="GitHub Stats" />
+</p>
 
 
 ## 🌐 Socials:
