@@ -112,7 +112,7 @@ I am open to:
 
 
 
-### ✍️ Architecture of My Thoughts
+### ✍️ Signals from the Void:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
