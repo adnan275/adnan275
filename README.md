@@ -66,14 +66,16 @@ I am open to:
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=default" alt="GitHub Stats" />
-</p>
+
 
 
 
 
 <!-- Snake Game Repo View -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=Building+systems+that+learn...;Turning+logic+into+reality.;Refactoring+my+skills+daily." alt="Typing SVG" />
+</p>
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
@@ -86,11 +88,23 @@ I am open to:
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=adnan275&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=adnan275&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=adnan275&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<p align="center">
+    <a>
+    <img height="150" width="150" src="https://user-images.githubusercontent.com/85965606/194883377-48faf476-56b7-4550-8574-844f2ca8baca.png">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adnan275&theme=dark&hide_border=true"/>
+    <img height="150" width="150" src="https://user-images.githubusercontent.com/85965606/194883387-b4d3b9f8-d432-4b77-8aab-77c6ed120e31.png"> 
+    </a>
+</p>
 
-# 📊 GitHub Stats:
+<div align="center">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adnan275&theme=github_dark" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adnan275&theme=github_dark"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adnan275&theme=github_dark"  />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adnan275&theme=github_dark"  />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=adnan275&theme=github_dark" />
+</div>
+
+
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=adnan275&theme=react-dark)
 ![Profile Views](https://komarev.com/ghpvc/?username=adnan275&label=Profile%20Views&color=0e75b6&style=flat)
