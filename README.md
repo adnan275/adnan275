@@ -112,7 +112,7 @@ I am open to:
 
 
 
-### ✍️ Random Dev Quote
+### ✍️ Architecture of My Thoughts
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
