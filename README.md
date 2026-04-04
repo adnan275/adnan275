@@ -117,8 +117,6 @@ I am open to:
 
 
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=adnan275&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
 
