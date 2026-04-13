@@ -6,9 +6,9 @@ Full-Stack Developer | Backend, Scalability & System Design Specialist
 
 ## 💫 Profile
 
-* Specialized in building robust, scalable backend architectures.
-* Focused on translating System Design & DSA concepts into real-world products.
-* Strong foundation in problem-solving and architectural efficiency.
+* Full-Stack Developer: Building scalable, production-ready apps with MERN, Prisma, and MySQL using SOLID principles.
+* Problem Solver: Expert in DSA and System Design, focused on writing modular, efficient, and maintainable code.
+* Implementing RAG and Agentic AI workflows with a strong background in data analytics.
 
 ---
 
