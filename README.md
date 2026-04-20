@@ -93,13 +93,13 @@ I am open to:
   <table style="border: none;">
     <tr valign="top">
       <td align="center" style="border: none;">
-        <img src="https://user-images.githubusercontent.com/85965606/194883377-48faf476-56b7-4550-8574-844f2ca8baca.png" width="130" alt="Left Wing" />
+        <img src="https://user-images.githubusercontent.com/85965606/194883377-48faf476-56b7-4550-8574-844f2ca8baca.png" width="165" alt="Left Wing" />
       </td>
       <td align="center" style="border: none;">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=adnan275&theme=dark&hide_border=true" alt="Streak" />
       </td>
       <td align="center" style="border: none;">
-        <img src="https://user-images.githubusercontent.com/85965606/194883387-b4d3b9f8-d432-4b77-8aab-77c6ed120e31.png" width="130" alt="Right Wing" />
+        <img src="https://user-images.githubusercontent.com/85965606/194883387-b4d3b9f8-d432-4b77-8aab-77c6ed120e31.png" width="165" alt="Right Wing" />
       </td>
     </tr>
   </table>
@@ -108,14 +108,14 @@ I am open to:
 <br>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adnan275&theme=github_dark" height="165" alt="Profile Details" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adnan275&theme=github_dark" height="165" alt="Overview Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adnan275&theme=github_dark" height="190" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adnan275&theme=github_dark" height="190" alt="Overview Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adnan275&theme=github_dark" height="165" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adnan275&theme=github_dark" height="165" alt="Most Commits" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=adnan275&theme=github_dark" height="165" alt="Productive Time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adnan275&theme=github_dark" height="190" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adnan275&theme=github_dark" height="190" alt="Most Commits" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=adnan275&theme=github_dark" height="190" alt="Productive Time" />
 </div>
 
 
