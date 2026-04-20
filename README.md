@@ -88,20 +88,34 @@ I am open to:
 
 
 # 📊 GitHub Stats:
-<p align="center">
-    <a>
-    <img height="150" width="150" src="https://user-images.githubusercontent.com/85965606/194883377-48faf476-56b7-4550-8574-844f2ca8baca.png">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adnan275&theme=dark&hide_border=true"/>
-    <img height="150" width="150" src="https://user-images.githubusercontent.com/85965606/194883387-b4d3b9f8-d432-4b77-8aab-77c6ed120e31.png"> 
-    </a>
-</p>
 
 <div align="center">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adnan275&theme=github_dark" />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adnan275&theme=github_dark"/>
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adnan275&theme=github_dark"  />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adnan275&theme=github_dark"  />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=adnan275&theme=github_dark" />
+  <table style="border: none;">
+    <tr valign="top">
+      <td align="center" style="border: none;">
+        <img src="https://user-images.githubusercontent.com/85965606/194883377-48faf476-56b7-4550-8574-844f2ca8baca.png" width="130" alt="Left Wing" />
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=adnan275&theme=dark&hide_border=true" alt="Streak" />
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://user-images.githubusercontent.com/85965606/194883387-b4d3b9f8-d432-4b77-8aab-77c6ed120e31.png" width="130" alt="Right Wing" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adnan275&theme=github_dark" height="165" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adnan275&theme=github_dark" height="165" alt="Overview Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adnan275&theme=github_dark" height="165" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adnan275&theme=github_dark" height="165" alt="Most Commits" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=adnan275&theme=github_dark" height="165" alt="Productive Time" />
 </div>
 
 
