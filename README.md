@@ -1,6 +1,6 @@
 # Hii, I'm Adnan Rizvi 👋
 
-Full-Stack Developer | Backend, Scalability & System Design Specialist
+AI/ML Engineer & Full-Stack Developer | Backend, Scalability & System Design Specialist
 
 ---
 
