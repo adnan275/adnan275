@@ -53,9 +53,9 @@ Key Responsibilities:
 ## 🤝 Let's Collaborate
 
 I am open to:
-* Full-Stack development projects.
-* Backend-heavy and product-driven roles.
-* Scalability challenges.
+* **Full-Stack & AI:** Building smart applications, AI features, and automated workflows.
+* **Backend & Product:** Designing solid architectures, scalable features, and product backends.
+* **Problem Solving & Data:** Fixing performance bottlenecks, data workflows, and complex coding challenges.
 
 ## 📫 Connect With Me
 
