@@ -6,9 +6,9 @@ AI/ML Engineer & Full-Stack Developer | Backend, Scalability & System Design Spe
 
 ## 💫 Profile
 
-* Full-Stack Developer: Building scalable, production-ready apps with MERN, Prisma, and MySQL using SOLID principles.
-* Problem Solver: Expert in DSA and System Design, focused on writing modular, efficient, and maintainable code.
-* Implementing RAG and Agentic AI workflows with a strong background in data analytics.
+* **Full-Stack & AIML Engineer:** Building scalable MERN apps and intelligent systems using LangChain, LangGraph, and RAG pipelines.
+* **Problem Solver:** Expert in DSA and System Design, focused on writing modular and efficient code using SOLID principles.
+* **Data-Driven Innovator:** Implementing predictive ML models and intelligent workflows with expertise in data analytics.
 
 ---
 
