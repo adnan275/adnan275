@@ -34,20 +34,19 @@ Key Responsibilities:
 
 ## ⚙️ Skills & Technologies
 
-### **Frontend**
-* React, JavaScript, HTML5, CSS3, Vite
+### 🌐 **Frontend & UI**
+* React, JavaScript, HTML5, CSS3, Tailwind CSS, Framer Motion, Vite
 
-### **Backend & Databases**
-* Node.js, Express.js, Prisma ORM, MySQL (Aiven), MongoDB, Firebase
-
-### **Auth & Messaging**
+### 🗄️ **Backend, DB & Auth**
+* Node.js, Express.js, FastAPI, Prisma, MySQL (Aiven), MongoDB, Firebase, ChromaDB
 * JWT, Nodemailer, Cloudinary
 
-### **Tools & DevOps**
-* Vercel, Git & GitHub
+### 🤖 **AI & Data Science**
+* LangChain, LangGraph, LLMs, RAG, Agentic AI, Pandas, NumPy, Tableau
 
-### **Languages & Concepts**
-* Python, Pandas, DSA, System Design
+### 🛠️ **Tools & Core Concepts**
+* Docker, Git & GitHub, Vercel, Streamlit, Jupyter Notebook
+* Python, DSA, System Design, OOP, SOLID, ETL Pipelines
 
 ---
 
