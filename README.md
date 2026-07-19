@@ -149,7 +149,8 @@ I am open to:
 
 
 ---
-
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
+<em><b>I love connecting with different people, so if you'd like to say hi, I'd love to get to know you more!</b> :)</em>
 
 
 
