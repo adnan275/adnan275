@@ -15,7 +15,7 @@ AI/ML Engineer & Full-Stack Developer | Backend, Scalability & System Design Spe
 ## 🛠️ Currently Building
 
 ### **Presento Treasure (Startup Product)**
-**Role: Lead Backend Developer**
+**Role: Lead Full-Stack Developer**
 
 Key Responsibilities:
 * Developing modular, flexible APIs for evolving features.
